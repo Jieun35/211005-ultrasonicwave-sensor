@@ -1,10 +1,12 @@
 {
-    "name": "211005수업_초음파센서",
+    "name": "211005수업_초음파센서2",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.1.1"
     },
     "files": [
         "main.blocks",
